@@ -13,6 +13,7 @@ name: {world_boss['name']}
 starts at: {world_boss['start_time']}
 zone: {world_boss['zone']}
 area: {world_boss['area']}
+waypoint link: {world_boss['waypoint_link']}
 ___________________________
             """
         )
