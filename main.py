@@ -3,7 +3,8 @@ from time_handler.main import get_time, addition_n_minutes
 from data.main import load_world_boss_data
 from message.main import message_world_boss_alert
 import discord
-
+import os
+from dotenv import load_dotenv
 
 ALERT_N_MINUTES_BEFORE_WORLD_BOSS_SPAWN = 10
 CHECK_BOSS_WORLD_EVERY_N_MINUTES = 1
@@ -53,10 +54,12 @@ class MyClient(discord.Client):
             pass
  
 
+load_dotenv()
+
 intents = discord.Intents.default()
 intents.members = True
 intents.message_content = True
 
 client = MyClient(intents=intents)
 
-client.run('MTAzNTA1NzYwNjczOTM2MTg1Mw.G805BH.rKedyrpBC791KjIKdMqcOWJeMAJxShccwVZGS4')
+client.run(os.environ['BOT_TOKEN'])
