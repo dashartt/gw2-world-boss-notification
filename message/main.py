@@ -2,10 +2,8 @@ def message_world_boss_alert(avaliable_world_boss):
     informations = list()
 
     informations.append("""
-# World Boss Notification
+# Avaliables:
 
-## Avaliables:
-___________________________
     """)
 
     for world_boss in avaliable_world_boss:
