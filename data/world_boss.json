@@ -5,7 +5,8 @@
       "start_time": "19:30",
       "zone": "Frostgorge Sound",
       "area": "Frostwalk Tundra",
-      "waypoint_link": "[&BHoCAAA=]"
+      "waypoint_link": "[&BHoCAAA=]",
+      "image_url": "./images/Claw Of Jormag.png"
     }
   ],
   "11:00": [
@@ -14,7 +15,8 @@
       "start_time": "11:00",
       "zone": "Mount Maelstrom",
       "area": "Whitland Flats",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNQCAAA=]",
+      "image_url": "./images/Golem Mark II.png"
     }
   ],
   "05:45": [
@@ -23,7 +25,8 @@
       "start_time": "05:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "10:15": [
@@ -32,7 +35,8 @@
       "start_time": "13:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "10:30": [
@@ -41,7 +45,8 @@
       "start_time": "13:30",
       "zone": "Harathi Hinterlands",
       "area": "Modniir Gorge",
-      "waypoint_link": "[&BLAAAAA=]"
+      "waypoint_link": "[&BLAAAAA=]",
+      "image_url": "./images/Modniir Ulgoth.png"
     }
   ],
   "00:00": [
@@ -50,14 +55,16 @@
       "start_time": "00:00",
       "zone": "Bloodtide Coast",
       "area": "Laughing Gull Island",
-      "waypoint_link": "[&BKgBAAA=]"
+      "waypoint_link": "[&BKgBAAA=]",
+      "image_url": "./images/Admiral Taidha Covington.png"
     },
     {
       "name": "Tequatl the Sunless",
       "start_time": "00:00",
       "zone": "Sparkfly Fen",
       "area": "Splintered Coast",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNABAAA=],[&BNEBAAA=]",
+      "image_url": "./images/Tequatl the Sunless.png"
     }
   ],
   "13:45": [
@@ -66,7 +73,8 @@
       "start_time": "13:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "17:45": [
@@ -75,7 +83,8 @@
       "start_time": "17:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "19:15": [
@@ -84,7 +93,8 @@
       "start_time": "19:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "13:00": [
@@ -93,14 +103,16 @@
       "start_time": "16:00",
       "zone": "Blazeridge Steppes",
       "area": "Lowland Burns",
-      "waypoint_link": "[&BE4DAAA=]"
+      "waypoint_link": "[&BE4DAAA=]",
+      "image_url": "./images/The shatterer.png"
     },
     {
       "name": "Tequatl the Sunless",
       "start_time": "13:00",
       "zone": "Sparkfly Fen",
       "area": "Splintered Coast",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNABAAA=],[&BNEBAAA=]",
+      "image_url": "./images/Tequatl the Sunless.png"
     }
   ],
   "07:30": [
@@ -109,14 +121,16 @@
       "start_time": "07:30",
       "zone": "Harathi Hinterlands",
       "area": "Modniir Gorge",
-      "waypoint_link": "[&BLAAAAA=]"
+      "waypoint_link": "[&BLAAAAA=]",
+      "image_url": "./images/Modniir Ulgoth.png"
     },
     {
       "name": "Karka Queen",
       "start_time": "07:30",
       "zone": "Southsun Cove",
       "area": "Driftglass Springs",
-      "waypoint_link": ""
+      "waypoint_link": "[&BAoHAAA=]",
+      "image_url": "./images/Karka Queen.png"
     }
   ],
   "04:15": [
@@ -125,7 +139,8 @@
       "start_time": "04:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "10:00": [
@@ -134,7 +149,8 @@
       "start_time": "10:00",
       "zone": "Blazeridge Steppes",
       "area": "Lowland Burns",
-      "waypoint_link": "[&BE4DAAA=]"
+      "waypoint_link": "[&BE4DAAA=]",
+      "image_url": "./images/The shatterer.png"
     }
   ],
   "19:30": [
@@ -143,7 +159,8 @@
       "start_time": "19:30",
       "zone": "Harathi Hinterlands",
       "area": "Modniir Gorge",
-      "waypoint_link": "[&BLAAAAA=]"
+      "waypoint_link": "[&BLAAAAA=]",
+      "image_url": "./images/Modniir Ulgoth.png"
     }
   ],
   "04:30": [
@@ -152,7 +169,8 @@
       "start_time": "04:30",
       "zone": "Harathi Hinterlands",
       "area": "Modniir Gorge",
-      "waypoint_link": "[&BLAAAAA=]"
+      "waypoint_link": "[&BLAAAAA=]",
+      "image_url": "./images/Modniir Ulgoth.png"
     }
   ],
   "15:45": [
@@ -161,7 +179,8 @@
       "start_time": "15:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "19:00": [
@@ -170,7 +189,8 @@
       "start_time": "19:00",
       "zone": "Blazeridge Steppes",
       "area": "Lowland Burns",
-      "waypoint_link": "[&BE4DAAA=]"
+      "waypoint_link": "[&BE4DAAA=]",
+      "image_url": "./images/The shatterer.png"
     }
   ],
   "22:00": [
@@ -179,14 +199,16 @@
       "start_time": "22:00",
       "zone": "Blazeridge Steppes",
       "area": "Lowland Burns",
-      "waypoint_link": "[&BE4DAAA=]"
+      "waypoint_link": "[&BE4DAAA=]",
+      "image_url": "./images/The shatterer.png"
     },
     {
       "name": "Evolved Jungle Wurm",
       "start_time": "22:00",
       "zone": "Bloodtide Coast",
       "area": "Firth of Revanion",
-      "waypoint_link": ""
+      "waypoint_link": "[&BKoBAAA=]",
+      "image_url": "./images/Evolved Jungle Wurm.png"
     }
   ],
   "23:15": [
@@ -195,7 +217,8 @@
       "start_time": "23:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "14:00": [
@@ -204,14 +227,16 @@
       "start_time": "14:00",
       "zone": "Mount Maelstrom",
       "area": "Whitland Flats",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNQCAAA=]",
+      "image_url": "./images/Golem Mark II.png"
     },
     {
       "name": "Evolved Jungle Wurm",
       "start_time": "14:00",
       "zone": "Bloodtide Coast",
       "area": "Firth of Revanion",
-      "waypoint_link": ""
+      "waypoint_link": "[&BKoBAAA=]",
+      "image_url": "./images/Evolved Jungle Wurm.png"
     }
   ],
   "02:00": [
@@ -220,7 +245,8 @@
       "start_time": "02:00",
       "zone": "Mount Maelstrom",
       "area": "Whitland Flats",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNQCAAA=]",
+      "image_url": "./images/Golem Mark II.png"
     }
   ],
   "05:30": [
@@ -229,7 +255,8 @@
       "start_time": "05:30",
       "zone": "Frostgorge Sound",
       "area": "Frostwalk Tundra",
-      "waypoint_link": "[&BHoCAAA=]"
+      "waypoint_link": "[&BHoCAAA=]",
+      "image_url": "./images/Claw Of Jormag.png"
     }
   ],
   "15:30": [
@@ -238,7 +265,8 @@
       "start_time": "15:30",
       "zone": "Mount Maelstrom",
       "area": "Maelstrom's Bile",
-      "waypoint_link": "[&BNYCAAA=]"
+      "waypoint_link": "[&BNYCAAA=]",
+      "image_url": "./images/Megadestroyer.png"
     }
   ],
   "12:15": [
@@ -247,7 +275,8 @@
       "start_time": "12:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "08:00": [
@@ -256,7 +285,8 @@
       "start_time": "08:00",
       "zone": "Mount Maelstrom",
       "area": "Whitland Flats",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNQCAAA=]",
+      "image_url": "./images/Golem Mark II.png"
     }
   ],
   "00:15": [
@@ -265,7 +295,8 @@
       "start_time": "00:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "04:00": [
@@ -274,14 +305,16 @@
       "start_time": "04:00",
       "zone": "Blazeridge Steppes",
       "area": "Lowland Burns",
-      "waypoint_link": "[&BE4DAAA=]"
+      "waypoint_link": "[&BE4DAAA=]",
+      "image_url": "./images/The shatterer.png"
     },
     {
       "name": "Tequatl the Sunless",
       "start_time": "04:00",
       "zone": "Sparkfly Fen",
       "area": "Splintered Coast",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNABAAA=],[&BNEBAAA=]",
+      "image_url": "./images/Tequatl the Sunless.png"
     }
   ],
   "08:30": [
@@ -290,14 +323,16 @@
       "start_time": "08:30",
       "zone": "Frostgorge Sound",
       "area": "Frostwalk Tundra",
-      "waypoint_link": "[&BHoCAAA=]"
+      "waypoint_link": "[&BHoCAAA=]",
+      "image_url": "./images/Claw Of Jormag.png"
     },
     {
       "name": "Tequatl the Sunless",
       "start_time": "08:30",
       "zone": "Sparkfly Fen",
       "area": "Splintered Coast",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNABAAA=],[&BNEBAAA=]",
+      "image_url": "./images/Tequatl the Sunless.png"
     }
   ],
   "18:15": [
@@ -306,7 +341,8 @@
       "start_time": "18:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "22:30": [
@@ -315,7 +351,8 @@
       "start_time": "22:30",
       "zone": "Harathi Hinterlands",
       "area": "Modniir Gorge",
-      "waypoint_link": "[&BLAAAAA=]"
+      "waypoint_link": "[&BLAAAAA=]",
+      "image_url": "./images/Modniir Ulgoth.png"
     }
   ],
   "21:15": [
@@ -324,7 +361,8 @@
       "start_time": "21:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "18:00": [
@@ -333,7 +371,8 @@
       "start_time": "18:00",
       "zone": "Bloodtide Coast",
       "area": "Laughing Gull Island",
-      "waypoint_link": "[&BKgBAAA=]"
+      "waypoint_link": "[&BKgBAAA=]",
+      "image_url": "./images/Admiral Taidha Covington.png"
     }
   ],
   "09:15": [
@@ -342,7 +381,8 @@
       "start_time": "09:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "20:00": [
@@ -351,14 +391,16 @@
       "start_time": "20:00",
       "zone": "Mount Maelstrom",
       "area": "Whitland Flats",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNQCAAA=]",
+      "image_url": "./images/Golem Mark II.png"
     },
     {
       "name": "Karka Queen",
       "start_time": "20:00",
       "zone": "Southsun Cove",
       "area": "Driftglass Springs",
-      "waypoint_link": ""
+      "waypoint_link": "[&BAoHAAA=]",
+      "image_url": "./images/Karka Queen.png"
     }
   ],
   "08:45": [
@@ -367,7 +409,8 @@
       "start_time": "08:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "15:15": [
@@ -376,7 +419,8 @@
       "start_time": "15:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "21:45": [
@@ -385,7 +429,8 @@
       "start_time": "21:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "01:30": [
@@ -394,7 +439,8 @@
       "start_time": "01:30",
       "zone": "Harathi Hinterlands",
       "area": "Modniir Gorge",
-      "waypoint_link": "[&BLAAAAA=]"
+      "waypoint_link": "[&BLAAAAA=]",
+      "image_url": "./images/Modniir Ulgoth.png"
     }
   ],
   "11:30": [
@@ -403,7 +449,8 @@
       "start_time": "11:30",
       "zone": "Frostgorge Sound",
       "area": "Frostwalk Tundra",
-      "waypoint_link": "[&BHoCAAA=]"
+      "waypoint_link": "[&BHoCAAA=]",
+      "image_url": "./images/Claw Of Jormag.png"
     }
   ],
   "20:45": [
@@ -412,7 +459,8 @@
       "start_time": "20:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "18:45": [
@@ -421,7 +469,8 @@
       "start_time": "18:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "14:15": [
@@ -430,7 +479,8 @@
       "start_time": "14:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "22:45": [
@@ -439,7 +489,8 @@
       "start_time": "22:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "03:00": [
@@ -448,14 +499,16 @@
       "start_time": "03:00",
       "zone": "Bloodtide Coast",
       "area": "Laughing Gull Island",
-      "waypoint_link": "[&BKgBAAA=]"
+      "waypoint_link": "[&BKgBAAA=]",
+      "image_url": "./images/Admiral Taidha Covington.png"
     },
     {
       "name": "Karka Queen",
       "start_time": "03:00",
       "zone": "Southsun Cove",
       "area": "Driftglass Springs",
-      "waypoint_link": ""
+      "waypoint_link": "[&BAoHAAA=]",
+      "image_url": "./images/Karka Queen.png"
     }
   ],
   "12:00": [
@@ -464,14 +517,16 @@
       "start_time": "12:00",
       "zone": "Bloodtide Coast",
       "area": "Laughing Gull Island",
-      "waypoint_link": "[&BKgBAAA=]"
+      "waypoint_link": "[&BKgBAAA=]",
+      "image_url": "./images/Admiral Taidha Covington.png"
     },
     {
       "name": "Karka Queen",
       "start_time": "12:00",
       "zone": "Southsun Cove",
       "area": "Driftglass Springs",
-      "waypoint_link": ""
+      "waypoint_link": "[&BAoHAAA=]",
+      "image_url": "./images/Karka Queen.png"
     }
   ],
   "05:00": [
@@ -480,14 +535,16 @@
       "start_time": "05:00",
       "zone": "Mount Maelstrom",
       "area": "Whitland Flats",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNQCAAA=]",
+      "image_url": "./images/Golem Mark II.png"
     },
     {
       "name": "Evolved Jungle Wurm",
       "start_time": "05:00",
       "zone": "Bloodtide Coast",
       "area": "Firth of Revanion",
-      "waypoint_link": ""
+      "waypoint_link": "[&BKoBAAA=]",
+      "image_url": "./images/Evolved Jungle Wurm.png"
     }
   ],
   "07:15": [
@@ -496,7 +553,8 @@
       "start_time": "07:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "15:00": [
@@ -505,14 +563,16 @@
       "start_time": "15:00",
       "zone": "Bloodtide Coast",
       "area": "Laughing Gull Island",
-      "waypoint_link": "[&BKgBAAA=]"
+      "waypoint_link": "[&BKgBAAA=]",
+      "image_url": "./images/Admiral Taidha Covington.png"
     },
     {
       "name": "Karka Queen",
       "start_time": "15:00",
       "zone": "Southsun Cove",
       "area": "Driftglass Springs",
-      "waypoint_link": ""
+      "waypoint_link": "[&BAoHAAA=]",
+      "image_url": "./images/Karka Queen.png"
     }
   ],
   "23:00": [
@@ -521,14 +581,16 @@
       "start_time": "23:00",
       "zone": "Mount Maelstrom",
       "area": "Whitland Flats",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNQCAAA=]",
+      "image_url": "./images/Golem Mark II.png"
     },
     {
       "name": "Karka Queen",
       "start_time": "23:00",
       "zone": "Southsun Cove",
       "area": "Driftglass Springs",
-      "waypoint_link": ""
+      "waypoint_link": "[&BAoHAAA=]",
+      "image_url": "./images/Karka Queen.png"
     }
   ],
   "17:15": [
@@ -537,7 +599,8 @@
       "start_time": "17:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "09:30": [
@@ -546,14 +609,16 @@
       "start_time": "09:30",
       "zone": "Mount Maelstrom",
       "area": "Maelstrom's Bile",
-      "waypoint_link": "[&BNYCAAA=]"
+      "waypoint_link": "[&BNYCAAA=]",
+      "image_url": "./images/Megadestroyer.png"
     },
     {
       "name": "Evolved Jungle Wurm",
       "start_time": "09:30",
       "zone": "Bloodtide Coast",
       "area": "Firth of Revanion",
-      "waypoint_link": ""
+      "waypoint_link": "[&BKoBAAA=]",
+      "image_url": "./images/Evolved Jungle Wurm.png"
     }
   ],
   "14:45": [
@@ -562,7 +627,8 @@
       "start_time": "14:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "17:00": [
@@ -571,14 +637,16 @@
       "start_time": "17:00",
       "zone": "Mount Maelstrom",
       "area": "Whitland Flats",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNQCAAA=]",
+      "image_url": "./images/Golem Mark II.png"
     },
     {
       "name": "Evolved Jungle Wurm",
       "start_time": "17:00",
       "zone": "Bloodtide Coast",
       "area": "Firth of Revanion",
-      "waypoint_link": ""
+      "waypoint_link": "[&BKoBAAA=]",
+      "image_url": "./images/Evolved Jungle Wurm.png"
     }
   ],
   "12:45": [
@@ -587,7 +655,8 @@
       "start_time": "12:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "10:45": [
@@ -596,7 +665,8 @@
       "start_time": "10:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "07:00": [
@@ -605,7 +675,8 @@
       "start_time": "07:00",
       "zone": "Blazeridge Steppes",
       "area": "Lowland Burns",
-      "waypoint_link": "[&BE4DAAA=]"
+      "waypoint_link": "[&BE4DAAA=]",
+      "image_url": "./images/The shatterer.png"
     }
   ],
   "11:45": [
@@ -614,7 +685,8 @@
       "start_time": "11:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "06:00": [
@@ -623,7 +695,8 @@
       "start_time": "06:00",
       "zone": "Bloodtide Coast",
       "area": "Laughing Gull Island",
-      "waypoint_link": "[&BKgBAAA=]"
+      "waypoint_link": "[&BKgBAAA=]",
+      "image_url": "./images/Admiral Taidha Covington.png"
     }
   ],
   "20:15": [
@@ -632,7 +705,8 @@
       "start_time": "20:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "19:45": [
@@ -641,7 +715,8 @@
       "start_time": "19:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "00:45": [
@@ -650,7 +725,8 @@
       "start_time": "00:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "23:45": [
@@ -659,7 +735,8 @@
       "start_time": "23:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "03:15": [
@@ -668,7 +745,8 @@
       "start_time": "03:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "21:00": [
@@ -677,14 +755,16 @@
       "start_time": "21:00",
       "zone": "Bloodtide Coast",
       "area": "Laughing Gull Island",
-      "waypoint_link": "[&BKgBAAA=]"
+      "waypoint_link": "[&BKgBAAA=]",
+      "image_url": "./images/Admiral Taidha Covington.png"
     },
     {
       "name": "Tequatl the Sunless",
       "start_time": "21:00",
       "zone": "Sparkfly Fen",
       "area": "Splintered Coast",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNABAAA=],[&BNEBAAA=]",
+      "image_url": "./images/Tequatl the Sunless.png"
     }
   ],
   "01:00": [
@@ -693,14 +773,16 @@
       "start_time": "01:00",
       "zone": "Blazeridge Steppes",
       "area": "Lowland Burns",
-      "waypoint_link": "[&BE4DAAA=]"
+      "waypoint_link": "[&BE4DAAA=]",
+      "image_url": "./images/The shatterer.png"
     },
     {
       "name": "Evolved Jungle Wurm",
       "start_time": "01:00",
       "zone": "Bloodtide Coast",
       "area": "Firth of Revanion",
-      "waypoint_link": ""
+      "waypoint_link": "[&BKoBAAA=]",
+      "image_url": "./images/Evolved Jungle Wurm.png"
     }
   ],
   "05:15": [
@@ -709,7 +791,8 @@
       "start_time": "05:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "12:30": [
@@ -718,7 +801,8 @@
       "start_time": "12:30",
       "zone": "Mount Maelstrom",
       "area": "Maelstrom's Bile",
-      "waypoint_link": "[&BNYCAAA=]"
+      "waypoint_link": "[&BNYCAAA=]",
+      "image_url": "./images/Megadestroyer.png"
     }
   ],
   "04:45": [
@@ -727,7 +811,8 @@
       "start_time": "04:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "09:45": [
@@ -736,7 +821,8 @@
       "start_time": "09:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "16:45": [
@@ -745,7 +831,8 @@
       "start_time": "16:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "20:30": [
@@ -754,7 +841,8 @@
       "start_time": "20:30",
       "zone": "Frostgorge Sound",
       "area": "Frostwalk Tundra",
-      "waypoint_link": "[&BHoCAAA=]"
+      "waypoint_link": "[&BHoCAAA=]",
+      "image_url": "./images/Claw Of Jormag.png"
     }
   ],
   "02:30": [
@@ -763,7 +851,8 @@
       "start_time": "02:30",
       "zone": "Frostgorge Sound",
       "area": "Frostwalk Tundra",
-      "waypoint_link": "[&BHoCAAA=]"
+      "waypoint_link": "[&BHoCAAA=]",
+      "image_url": "./images/Claw Of Jormag.png"
     }
   ],
   "01:45": [
@@ -772,7 +861,8 @@
       "start_time": "01:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "18:30": [
@@ -781,7 +871,8 @@
       "start_time": "18:30",
       "zone": "Mount Maelstrom",
       "area": "Maelstrom's Bile",
-      "waypoint_link": "[&BNYCAAA=]"
+      "waypoint_link": "[&BNYCAAA=]",
+      "image_url": "./images/Megadestroyer.png"
     }
   ],
   "02:15": [
@@ -790,7 +881,8 @@
       "start_time": "02:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "16:00": [
@@ -799,14 +891,16 @@
       "start_time": "16:00",
       "zone": "Blazeridge Steppes",
       "area": "Lowland Burns",
-      "waypoint_link": "[&BE4DAAA=]"
+      "waypoint_link": "[&BE4DAAA=]",
+      "image_url": "./images/The shatterer.png"
     },
     {
       "name": "Tequatl the Sunless",
       "start_time": "16:00",
       "zone": "Sparkfly Fen",
       "area": "Splintered Coast",
-      "waypoint_link": ""
+      "waypoint_link": "[&BNABAAA=],[&BNEBAAA=]",
+      "image_url": "./images/Tequatl the Sunless.png"
     }
   ],
   "06:15": [
@@ -815,7 +909,8 @@
       "start_time": "06:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "06:30": [
@@ -824,7 +919,8 @@
       "start_time": "06:30",
       "zone": "Mount Maelstrom",
       "area": "Maelstrom's Bile",
-      "waypoint_link": "[&BNYCAAA=]"
+      "waypoint_link": "[&BNYCAAA=]",
+      "image_url": "./images/Megadestroyer.png"
     }
   ],
   "13:30": [
@@ -833,7 +929,8 @@
       "start_time": "13:30",
       "zone": "Harathi Hinterlands",
       "area": "Modniir Gorge",
-      "waypoint_link": "[&BLAAAAA=]"
+      "waypoint_link": "[&BLAAAAA=]",
+      "image_url": "./images/Modniir Ulgoth.png"
     }
   ],
   "06:45": [
@@ -842,7 +939,8 @@
       "start_time": "06:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "16:30": [
@@ -851,7 +949,8 @@
       "start_time": "16:30",
       "zone": "Harathi Hinterlands",
       "area": "Modniir Gorge",
-      "waypoint_link": "[&BLAAAAA=]"
+      "waypoint_link": "[&BLAAAAA=]",
+      "image_url": "./images/Modniir Ulgoth.png"
     }
   ],
   "14:30": [
@@ -860,7 +959,8 @@
       "start_time": "14:30",
       "zone": "Frostgorge Sound",
       "area": "Frostwalk Tundra",
-      "waypoint_link": "[&BHoCAAA=]"
+      "waypoint_link": "[&BHoCAAA=]",
+      "image_url": "./images/Claw Of Jormag.png"
     }
   ],
   "07:45": [
@@ -869,7 +969,8 @@
       "start_time": "07:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "09:00": [
@@ -878,7 +979,8 @@
       "start_time": "09:00",
       "zone": "Bloodtide Coast",
       "area": "Laughing Gull Island",
-      "waypoint_link": "[&BKgBAAA=]"
+      "waypoint_link": "[&BKgBAAA=]",
+      "image_url": "./images/Admiral Taidha Covington.png"
     }
   ],
   "01:15": [
@@ -887,7 +989,8 @@
       "start_time": "01:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "16:15": [
@@ -896,7 +999,8 @@
       "start_time": "16:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "17:30": [
@@ -905,7 +1009,8 @@
       "start_time": "17:30",
       "zone": "Frostgorge Sound",
       "area": "Frostwalk Tundra",
-      "waypoint_link": "[&BHoCAAA=]"
+      "waypoint_link": "[&BHoCAAA=]",
+      "image_url": "./images/Claw Of Jormag.png"
     }
   ],
   "03:45": [
@@ -914,7 +1019,8 @@
       "start_time": "03:45",
       "zone": "Metrica Province",
       "area": "Thaumanova Reactor",
-      "waypoint_link": "[&BEYAAAA=]"
+      "waypoint_link": "[&BEYAAAA=]",
+      "image_url": "./images/Fire Elemental.png"
     }
   ],
   "21:30": [
@@ -923,7 +1029,8 @@
       "start_time": "21:30",
       "zone": "Mount Maelstrom",
       "area": "Maelstrom's Bile",
-      "waypoint_link": "[&BNYCAAA=]"
+      "waypoint_link": "[&BNYCAAA=]",
+      "image_url": "./images/Megadestroyer.png"
     }
   ],
   "03:30": [
@@ -932,7 +1039,8 @@
       "start_time": "03:30",
       "zone": "Mount Maelstrom",
       "area": "Maelstrom's Bile",
-      "waypoint_link": "[&BNYCAAA=]"
+      "waypoint_link": "[&BNYCAAA=]",
+      "image_url": "./images/Megadestroyer.png"
     }
   ],
   "11:15": [
@@ -941,7 +1049,8 @@
       "start_time": "11:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ],
   "02:45": [
@@ -950,7 +1059,8 @@
       "start_time": "02:45",
       "zone": "Queensdale",
       "area": "Godslost Swamp",
-      "waypoint_link": "[&BPMAAAA=]"
+      "waypoint_link": "[&BPMAAAA=]",
+      "image_url": "./images/Shadow Behemoth.png"
     }
   ],
   "08:15": [
@@ -959,7 +1069,8 @@
       "start_time": "08:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "22:15": [
@@ -968,7 +1079,8 @@
       "start_time": "22:15",
       "zone": "Caledon Forest",
       "area": "Wychmire Swamp",
-      "waypoint_link": "[&BEEFAAA=]"
+      "waypoint_link": "[&BEEFAAA=]",
+      "image_url": "./images/Great Jungle Wurm.png"
     }
   ],
   "00:30": [
@@ -977,7 +1089,8 @@
       "start_time": "00:30",
       "zone": "Mount Maelstrom",
       "area": "Maelstrom's Bile",
-      "waypoint_link": "[&BNYCAAA=]"
+      "waypoint_link": "[&BNYCAAA=]",
+      "image_url": "./images/Megadestroyer.png"
     }
   ],
   "13:15": [
@@ -986,7 +1099,8 @@
       "start_time": "13:15",
       "zone": "Wayfarer Foothills",
       "area": "Hunter's Lake",
-      "waypoint_link": "[&BMIDAAA=]"
+      "waypoint_link": "[&BMIDAAA=]",
+      "image_url": "./images/Svanir.png"
     }
   ]
 }
