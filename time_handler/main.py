@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta
+import pytz
 
 
 def convert_to_time(value):
@@ -10,7 +11,8 @@ def convert_to_datetime(value):
 
 
 def get_time():
-    current_time = datetime.now()
+    brazil_timezone = pytz.timezone("Brazil/East")         
+    current_time = datetime.now(brazil_timezone)
     return convert_to_time(current_time)    
 
 
