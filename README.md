@@ -5,8 +5,12 @@ Jogo [Guild Wars 2](https://www.guildwars2.com/en/), um MMORPG incrível! E o jo
 Porém, é meio chato ficar olhando que horas são e qual Boss ira nascer no Wiki, dessa forma, sugiu a ideia de criar um Bot no Discord para alertar sobre os World Boss. <br>
 Avisa com antecedência de 10 minutos algum World Boss próximo após usar o :star: Gw2 World Boss Notification :star:
 
-## Por que Discord?
-É bem comum jogadores usarem o [Discord](https://discord.com/) para criarem comunidades e se comunicar durante a gameplay, nesse sentido, gostei da ideia de direcionar ao Discord a forma de alertar o jogador. Pensei também em alertar via SMS, WhatsApp, mas, Discord enquadra mais pra quem joga :sunglasses:
+## Imagens
+Consultar no site do jogo           |  Com o bot
+:-------------------------:|:-------------------------:
+<img src="https://github.com/jonatasqueirozlima/gw2-world-boss-notification/blob/main/data/examples/howitis.png" /> |  <img src="https://github.com/jonatasqueirozlima/gw2-world-boss-notification/blob/main/data/examples/example3.png"  />
+
+
 
 ## O que foi usado?
 - [Python](https://www.python.org/) - Melhor linguagem ever para programar :rocket:
